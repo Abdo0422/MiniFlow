@@ -59,6 +59,3 @@ Saved locally under:
 ## License
 
 MIT
-
-```
-```
